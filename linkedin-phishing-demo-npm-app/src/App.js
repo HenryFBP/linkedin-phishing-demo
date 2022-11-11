@@ -5,6 +5,8 @@ function nowYouFuckedUp() {
     alert("Hey! This is NOT LinkedIn. \nThis is a fake website set up by Henry Post (http://henrypost.net/) to demonstrate \nhow incredibly easy it is to get 'phished'.")
 
     alert("For more info, go to https://www.phishing.org/what-is-phishing ")
+
+    alert("You can also go to https://github.com/HenryFBP/linkedin-phishing-demo")
 }
 
 function App(props) {
